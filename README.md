@@ -7,6 +7,8 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 * Customer View *
 * Create a MySQL Database called bamazon.
 
+![Image description](C:\Users\dawit\Desktop\bamazon_db.jpg)
+
 Then create a Table inside of that database called products.
 
 The products table should have each of the following columns:
